@@ -391,7 +391,8 @@ ul.a {
   color: white;
 }
 .gap {
-  height: 450px;
+  margin-left: 40px;
+  height: 500px;
   width: 5px;
   float: left;
   background-color: white;
